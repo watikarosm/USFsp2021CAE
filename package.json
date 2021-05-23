@@ -1,0 +1,15 @@
+{
+  "name": "caewjson",
+  "version": "1.0.0",
+  "description": "With JSON, receive and send to chatbot in Microsoft SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watikarosm/USFsp2021CAE/blob/main/index.html"
+  },
+  "author": "Watis Ekthuvapranee",
+  "license": "ISC"
+}
